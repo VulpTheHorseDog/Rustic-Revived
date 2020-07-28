@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "rusticrevived:block/ironwood_wood" },
+        "axis=z": { "model": "rusticrevived:block/ironwood_wood", "x": 90 },
+        "axis=x": { "model": "rusticrevived:block/ironwood_wood", "x": 90, "y": 90 }
+    }
+}

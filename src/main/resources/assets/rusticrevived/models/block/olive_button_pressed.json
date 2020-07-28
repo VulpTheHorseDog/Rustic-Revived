@@ -1,0 +1,6 @@
+{
+    "parent": "block/button_pressed",
+    "textures": {
+        "texture": "rusticrevived:block/olive_planks"
+    }
+}

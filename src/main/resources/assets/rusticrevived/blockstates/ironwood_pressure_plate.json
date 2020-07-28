@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "rusticrevived:block/ironwood_pressure_plate" },
+        "powered=true": { "model": "rusticrevived:block/ironwood_pressure_plate_down" }
+    }
+}

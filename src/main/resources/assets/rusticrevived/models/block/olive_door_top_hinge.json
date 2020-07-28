@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "rusticrevived:block/olive_door_bottom",
+        "top": "rusticrevived:block/olive_door_top"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "rusticrevived:block/ironwood_sapling"
+    }
+}

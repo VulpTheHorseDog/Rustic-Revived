@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "rusticrevived:block/olive_slab" },
+        "type=top": { "model": "rusticrevived:block/olive_slab_top" },
+        "type=double": { "model": "rusticrevived:block/olive_planks" }
+    }
+}

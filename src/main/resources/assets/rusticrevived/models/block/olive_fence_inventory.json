@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "rusticrevived:block/olive_planks"
+    }
+}

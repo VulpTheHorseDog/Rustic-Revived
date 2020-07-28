@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "rusticrevived:block/olive_planks"
+    }
+}

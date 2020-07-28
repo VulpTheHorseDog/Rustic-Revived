@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "rusticrevived:block/stripped_olive_log",
+        "side": "rusticrevived:block/stripped_olive_log"
+    }
+}

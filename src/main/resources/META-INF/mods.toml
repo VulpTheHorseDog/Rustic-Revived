@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="https://github.com/MysticMods/Druidcraft/issues"
+
+[[mods]]
+modId="rusticrevived"
+version="1.0"
+mcversion= "1.15,"
+displayName="Rustic Revived"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/druidcraft"
+credits="Java, Forge, MCP, Minecraft, and the Mystic team for supporting me!"
+authors="VulpTheHorseDog"
+description='''
+A port and continuation of the lovely Rustic mod from 1.12.2!
+'''
+
+[[dependencies.rusticrevived]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31.2,)"
+    ordering="NONE"
+    side="BOTH"
