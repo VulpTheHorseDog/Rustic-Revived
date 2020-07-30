@@ -1,5 +1,6 @@
 package com.vulp.rusticrevived;
 
+import com.vulp.rusticrevived.client.rendering.BlockRenderHandler;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
@@ -33,6 +34,7 @@ public class RusticRevived
     }
 
     private void doClientStuff(final FMLClientSetupEvent event) {
+        BlockRenderHandler.blockRenders();
         LOGGER.info("Performed client-side tasks.");
     }
 
